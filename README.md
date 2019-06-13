@@ -1,1 +1,2 @@
-Auto-Git is an automation bash script that automates the process of initializing a new git repository.
+# Auto-Git
+Auto-Git is a bash script that automates the process of initializing a new git repository.
